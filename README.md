@@ -1,3 +1,1 @@
-# Scripts utilizados na avaliação do sistema COOPRED DDOS.
-
-Dúvidas entre em contato com o resposável pelo email andersonneira@ufpr.br.
+#This is outdated. Please refer to: https://github.com/mentoredproject/WP2-coopred-prediction-ddos
